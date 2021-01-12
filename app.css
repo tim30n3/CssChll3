@@ -121,4 +121,8 @@ h1{margin-top: 20px}
     .article-color5-position{
         grid-area: pos5;
     }
+
+    .container{
+        margin: unset;
+    }
 }
